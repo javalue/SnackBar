@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="VS_ColorBarAppearance">
+    <attr format="dimension" name="color_bar_CircleRadius"/>
+    <attr format="dimension" name="color_bar_ThumbRadius"/>
+    <attr format="color" name="color_bar_StrokeColor"/>
+    <attr format="color" name="color_bar_SolidColor"/>
+    <attr format="dimension" name="color_bar_StrokeWidth"/>
+    <attr format="dimension" name="color_bar_ThumbWidth"/>
+    <attr format="dimension" name="color_bar_ThumbHeight"/>
+    <attr format="dimension" name="color_bar_ThumbMarginBottom"/>
+    <attr format="dimension" name="color_bar_height"/>
+    <attr format="boolean" name="color_bar_Thumb_visible"/>
+  </declare-styleable>
+</resources>

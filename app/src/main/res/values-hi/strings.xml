@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Loco xml export: Android string resources
+ Project: VivaShow
+ Release: Working copy
+ Locale: en-US, English (USA)
+ Exported by: gang wang
+ Exported at: Thu, 03 Aug 2017 06:34:25 +0100
+-->
+<resources>
+    <string name="str_confirm">पुष्टि करें</string>
+    <string name="app_name">My पुष्टि करें</string>
+
+</resources>
